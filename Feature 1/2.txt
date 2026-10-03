@@ -1,0 +1,3 @@
+• Blockquotes: Add a > symbol before the text. Use >> to nest quotes.
+• Inline Code: Wrap text in single backticks: `code`
+• Code Blocks: Wrap multi-line code in triple backticks (```). You can specify the language right after the opening backticks for syntax highlighting:

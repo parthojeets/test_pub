@@ -1,0 +1,3 @@
+Separators and Breaks
+• Horizontal Rule: Use three or more dashes (---) or asterisks (***) on an empty line.
+• Line Break: Add two spaces at the end of a line for a soft break, or leave a fully blank line for a new paragraph.
